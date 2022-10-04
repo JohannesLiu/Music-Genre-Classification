@@ -8,7 +8,7 @@ Welcome to browse the music genre classification works of mine. This repository 
 
 Generally speaking, if my paper is accepted by the conference, the code will be uploaded before the conference, and no later than one week after the conference. If my paper is accepted by the journal, the upload time will be earlier than the online time of the paper.
 
-### Accept Paper List 
+### Accepted Paper List 
 
 | Paper Title | Accepted Conference/Journal | Conference/Online Time | Publisher Website |
 |-------------|-----------------------------|------------------------|-------------------|
