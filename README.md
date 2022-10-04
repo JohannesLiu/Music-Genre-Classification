@@ -17,4 +17,4 @@ Generally speaking, if my paper is accepted by the conference, the code will be 
 
 ## Acknowledge 
 
-We sincerely thank the machine learning task management platform [NNI](https://github.com/microsoft/nni), which help us save a lot of time in managing machine learning tasks.
+We sincerely thank the machine learning task management platform [NNI](https://github.com/microsoft/nni), which helps us save a lot of time in managing machine learning tasks.
