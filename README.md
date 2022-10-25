@@ -6,7 +6,7 @@ Welcome to browse the music genre classification works of mine. This repository 
 
 ### Update Time
 
-Generally speaking, if my paper is accepted by the conference, the code will be uploaded before the conference, and no later than one week after the conference. If my paper is accepted by the journal, the upload time will be earlier than the online time of the paper.
+Generally speaking, if my paper is accepted by the conference, the code will be uploaded before the conference, and no later than one week after the conference. In very special circumstances, I will upload the source codes when the paper is online. If my paper is accepted by the journal, the upload time will be earlier than the online time of the paper.
 
 ### Accepted Paper List 
 
