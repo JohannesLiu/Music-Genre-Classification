@@ -18,13 +18,15 @@ pip install librosa==0.8.0
 
 ### Execution Steps
 
+### Representaition Construction
+#### Mel-Spectrogram & MFCC Version
 ## 0. Process Data
 Split the original complex dsv file to multi datasets with different sizes.
 
 ## 1. Sort Data
 Construct the Bag-Level Data Structure.
 
-## 2. Build Representation
+## 2. Build Representation 
 Build the Mel-spectrogram Representation.
 1. Run "2. Build Representation_medium.ipynb.ipynb".
 
@@ -45,3 +47,24 @@ Build the Mel-spectrogram Representation.
 ## 6. Evaluation
 1. Evaluate Statistica Models.
 2. Evaluate Neural Networks.
+
+#### FMA Version
+## 0. Process Data
+Split the original complex dsv file to multi datasets with different sizes.
+
+## 1. Sort Data
+Construct the Bag-Level Data Structure.
+
+## 2. SortRepresentation
+No Usage. Just watch the data.
+1. Run "2. Sort_Representation.ipynb".
+
+
+## 3. Train Models
+1. Run Files in the folder "3.1 Train_Staticstica".
+
+## 4. Evaluation
+1. Run Files in the folder "4.1 Evaluation".
+
+## 5. Plot
+1. Run Files in the folder "5.1 Plot".
